@@ -1,4 +1,4 @@
-# Arch Installation
+# Introducción
 En este repositorio se archivarán los progresos de mi instalación manual de Arch Linux en un pc de uso general, desde ofimática, pasando por videojuegos y finalizando en desarrollo de software.
 
 ## Especificaciones del dispositivo.
@@ -7,8 +7,7 @@ En este repositorio se archivarán los progresos de mi instalación manual de Ar
 - 16gb DDR4
 - Resolución 1920x1080
 
-## Introducción
-Las características objetivo del sistema son:
+## Características Objetivo
 - Arranque UEFI con uso de **Grub**.
 - Uso de **Systemd** como surtido de programas principal.
 - Sistema de archivos principal **BTRFS**, con capacidad de copias de seguridad atómicas, rápidas y de poco coste de almacenamiento.
@@ -20,3 +19,8 @@ Las características objetivo del sistema son:
 
 ## Testing
 Como espacio de trabajo se hará uso de **Virtualbox**. El objetivo será crear dentro de la VM una versión estable que exportar a la máquina objetivo.
+
+## Problemas
+### Registro
+Al principio no era un objetivo regstrar los avances de este proyecto, sino usarlo como una práctica. Por la espontaneidad del proyecto, se necesitó de la revisión de **bash_history** y de algunos logs desde cada instantánea de VirtualBox en pos de la correcta redacción de los procesos de instalación.
+Una opción habría sido subir el .ova al repositorio directamente, de no ser por su gran tamaño y las limitaciones de GitHub. Por ello, es posible acceder a este mismo archivo desde un enlace a Google Drive xxxxxxxxxxxxxxxxxxxxxxx.
