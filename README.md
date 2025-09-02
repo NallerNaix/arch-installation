@@ -18,9 +18,10 @@ En este repositorio se archivarán los progresos de mi instalación manual de Ar
 - Personalización de atajos de teclado con **Keyd**
 
 ## Testing
-Como espacio de trabajo se hará uso de **Virtualbox**. El objetivo será crear dentro de la VM una versión estable que exportar a la máquina objetivo.
+Como espacio de trabajo se hará uso de **Virtualbox** y su sistema de instantáneas será sustituto de git. El objetivo será crear dentro de la VM una versión estable que exportar a la máquina objetivo.
 
 ## Problemas
 ### Registro
 Cuando empezó el desarrollo no era un objetivo registrar los avances de este proyecto, sino usarlo como una práctica. Por la espontaneidad del proyecto, se necesitó de la revisión de **bash_history** y de algunos logs desde cada instantánea de VirtualBox en pos de la correcta redacción de los procesos de instalación.
-Una opción habría sido subir el .ova al repositorio directamente, de no ser por su gran tamaño y las limitaciones de GitHub. Por ello, es posible acceder a este mismo archivo desde un enlace a Google Drive xxxxxxxxxxxxxxxxxxxxxxx.
+Una opción habría sido subir el .ova al repositorio directamente, de no ser por su gran tamaño y las limitaciones de GitHub. Sin embargo, si es posible acceder a este mismo archivo desde un enlace a Google Drive xxxxxxxxxxxxxxxxxxxxxxx.
+RECORDAR BORRAR EL REGISTRO UNA VEZ SE HAYAN ACTUALIZADO LOS CAMBIOS
