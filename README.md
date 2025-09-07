@@ -25,3 +25,5 @@ Como espacio de trabajo se hará uso de **Virtualbox** y su sistema de instantá
 Cuando empezó el desarrollo no era un objetivo registrar los avances de este proyecto, sino usarlo como una práctica. Por la espontaneidad del proyecto, se necesitó de la revisión de **bash_history** y de algunos logs desde cada instantánea de VirtualBox en pos de la correcta redacción de los procesos de instalación.
 Una opción habría sido subir el .ova al repositorio directamente, de no ser por su gran tamaño y las limitaciones de GitHub. Sin embargo, si es posible acceder a este mismo archivo desde un enlace a Google Drive xxxxxxxxxxxxxxxxxxxxxxx.
 RECORDAR BORRAR EL REGISTRO UNA VEZ SE HAYAN ACTUALIZADO LOS CAMBIOS
+### Hora
+El servicio timedatectl no estaba completamente configurado hasta la instantánea 10. Esto afecta a la marca temporal de los logs, necesitando depurarlos.
